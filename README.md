@@ -110,6 +110,8 @@ The polygon for each cluster shows the average values of the features for that c
 
 Using this visualization, we can identify the key characteristics of each cluster and develop targeted marketing strategies accordingly.
 
+you can access the chart by using this [Link](https://rawcdn.githack.com/Unseen-Elder/Customer_segmentation/ae0f191233b23d94e2fb810b1a34992d636d06a1/Result.html)
+
 ## Summary
 
 This project is focused on customer segmentation for a wholesale distributor using unsupervised learning techniques. The dataset used is the Wholesale Customers dataset, which contains information on the annual spending of 440 customers across different product categories. The project is divided into five tasks, starting with exploratory data analysis to understand the distribution of the data and identify any trends or patterns. The subsequent tasks include dimensionality reduction techniques, such as Principal Component Analysis (PCA) and Kernel Principal Component Analysis (KPCA), K-Means clustering algorithm, and interactive cluster analysis. The project aims to identify groups of customers with similar behavior, which can help improve business strategies and increase customer satisfaction. The project can also serve as a valuable learning experience for those interested in unsupervised learning, clustering algorithms, and visualization techniques.
