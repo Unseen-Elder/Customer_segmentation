@@ -110,7 +110,7 @@ The polygon for each cluster shows the average values of the features for that c
 
 Using this visualization, we can identify the key characteristics of each cluster and develop targeted marketing strategies accordingly.
 
-you can access the chart by using this [Link](https://rawcdn.githack.com/Unseen-Elder/Customer_segmentation/ae0f191233b23d94e2fb810b1a34992d636d06a1/Result.html)
+You can access the chart by using this [Link](https://rawcdn.githack.com/Unseen-Elder/Customer_segmentation/ae0f191233b23d94e2fb810b1a34992d636d06a1/Result.html)
 
 ## Summary
 
